@@ -38,10 +38,10 @@ sudo docker build -t joelgmsec/evilnovnc .
 Usage:  ./start.sh $resolution $url
 
 Examples:
-        1280x720  16bits: ./start.sh 1280x720x16 http://example.com
-        1280x720  24bits: ./start.sh 1280x720x24 http://example.com
-        1920x1080 16bits: ./start.sh 1920x1080x16 http://example.com
-        1920x1080 24bits: ./start.sh 1920x1080x24 http://example.com
+        1280x720  16bits: ./start.sh 1280x720x16 http://facebook.com
+        1280x720  24bits: ./start.sh 1280x720x24 http://facebook.com
+        1920x1080 16bits: ./start.sh 1920x1080x16 http://facebook.com
+        1920x1080 24bits: ./start.sh 1920x1080x24 http://facebook.com
 
 Dynamic resolution:
         ./start.sh dynamic http://example.com
